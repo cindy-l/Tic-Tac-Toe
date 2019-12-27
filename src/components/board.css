@@ -1,0 +1,29 @@
+.square {
+  background: white;
+  border: 1px solid black;
+  vertical-align: bottom;
+  font-size: 30px;
+  font-weight: bold;
+  height: 50px;
+  width: 50px;
+  padding: 0;
+  text-align: center;
+}
+.boardRow {
+  margin-left: 20px;
+}
+
+.square:focus {
+  outline: none;
+}
+
+.status {
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.playAgain {
+  margin-top: 20px;
+  margin-left: 20px;
+}
