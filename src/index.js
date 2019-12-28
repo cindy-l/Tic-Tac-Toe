@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Board from "./components/board";
+import Game from "./components/game";
 import "bootstrap/dist/css/bootstrap.css";
 
-ReactDOM.render(<Board />, document.getElementById("root"));
+ReactDOM.render(<Game />, document.getElementById("root"));

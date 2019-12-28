@@ -1,0 +1,12 @@
+.container {
+  position: fixed;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: hidden;
+  width: 1000px;
+}
+
+.status {
+  font-size: 30px;
+  font-weight: bold;
+}

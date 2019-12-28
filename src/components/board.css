@@ -9,21 +9,14 @@
   padding: 0;
   text-align: center;
 }
-.boardRow {
-  margin-left: 20px;
-}
 
 .square:focus {
   outline: none;
 }
 
-.status {
-  font-size: 30px;
-  font-weight: bold;
-  margin-left: 20px;
-}
-
-.playAgain {
-  margin-top: 20px;
-  margin-left: 20px;
+.board {
+  display: inline-block;
+  float: left;
+  height: 200px;
+  width: 200px;
 }
