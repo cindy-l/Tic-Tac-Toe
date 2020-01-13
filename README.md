@@ -1,6 +1,11 @@
+## Tic Tac Toe
 A React implementation of Tic Tac Toe for two players
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![preview 1](https://user-images.githubusercontent.com/43526340/72229898-bf430c00-3566-11ea-92ae-43697babdb05.png)
+![preview 2](https://user-images.githubusercontent.com/43526340/72229901-c0743900-3566-11ea-9772-74729809398f.png)
+![preview 3](https://user-images.githubusercontent.com/43526340/72229926-e994c980-3566-11ea-8ae7-2e66e6a40d5a.png)
 
 ## Available Scripts
 
